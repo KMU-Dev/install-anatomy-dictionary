@@ -9,7 +9,8 @@ Install anatomy dictionary to google chrome custom type checking.
 
 ## Notice :heavy_exclamation_mark::heavy_exclamation_mark:
 
-**When running this app in computer in the classroom, make sure you have uninstalled F-secure or it will block downloading.**
+1. **When running this app in computer in the classroom, make sure you have uninstalled F-secure or it will block downloading.**
+2. **Please go to "chrome://settings/editDictionary" to remove old anatomy dictionary before installing new histology dictionary when installing this app in your own computer.**
 
 ## Install
 
