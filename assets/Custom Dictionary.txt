@@ -158,4 +158,3 @@ transitional
 volkmann's
 white
 zone
-checksum_v1 = d1fe4e9b9747c3426dba807bb453a828
